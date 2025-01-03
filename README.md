@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a DevOps Engineer wearing many hats. Full-stack development is one of my passions that makes me better of what I normally do. 
+
+Love Kubernetes, event based and distributed systems. Lately I have been trying to learn about and apply my skills to Blockchains, the ultimate decentralized platform, and Web3.
